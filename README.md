@@ -3,7 +3,7 @@
 ![Dashboard Page 1](/images/Project1_Page1.png)
 
 ## Introduction
-This is a demo dashboard, created for **job seekers, job transitioners and job swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. 
+This is a dashboard, created for **job seekers, job transitioners and job swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. 
 
 Using real-world dataset created by *Luke Barousse* of 2024 data science job postings. This project provides a single, easy-to-use interface to explore market trends and compensation.
 
